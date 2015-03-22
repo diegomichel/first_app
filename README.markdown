@@ -1,3 +1,7 @@
+# Ruby on Rails Tutorial: first applicacion
+
+This is the first app for [*Ruby on rails tutorial: Learn Rails by Example*](http://diegomichel.org) por [Diego Michel](http://diegomichel.org)
+
 == README
 
 This README would normally document whatever steps are necessary to get the
